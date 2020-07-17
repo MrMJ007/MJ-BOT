@@ -19,7 +19,7 @@ bot.on('message', message =>{
         }
         else{
             message.delete();
-            message.channel.send(sender + " this bot only accepts commands which starts with '>' dot.");
+            message.channel.send(sender + " this bot only accepts commands which starts with '!' dot.");
         }
     }
 });
