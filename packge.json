@@ -8,6 +8,6 @@
         "start": "node mj.js"
     },
     "dependencies": {
-	"discord.js" : "11.2.1"
+	"discord.js" : "11.6.1"
 	}
 }
